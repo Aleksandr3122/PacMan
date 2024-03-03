@@ -1,0 +1,38 @@
+﻿  Main.cpp
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(67,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(68,11): warning C4244: инициализация: преобразование "const T" в "int", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(68,11): warning C4244:         with
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(68,11): warning C4244:         [
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(68,11): warning C4244:             T=float
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(68,11): warning C4244:         ]
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(69,11): warning C4244: инициализация: преобразование "const T" в "int", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(69,11): warning C4244:         with
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(69,11): warning C4244:         [
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(69,11): warning C4244:             T=float
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(69,11): warning C4244:         ]
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(152,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(152,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(195,17): warning C4244: инициализация: преобразование "sf::Int32" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(222,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(222,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(227,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(227,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(249,11): warning C4244: инициализация: преобразование "const T" в "int", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(249,11): warning C4244:         with
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(249,11): warning C4244:         [
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(249,11): warning C4244:             T=float
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(249,11): warning C4244:         ]
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(250,11): warning C4244: инициализация: преобразование "const T" в "int", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(250,11): warning C4244:         with
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(250,11): warning C4244:         [
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(250,11): warning C4244:             T=float
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(250,11): warning C4244:         ]
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(271,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(271,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(299,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(299,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(328,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(328,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(355,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Repos\Aleksandr3122\PacMan\PacMan\Main.cpp(355,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  PacMan.vcxproj -> K:\Repos\Aleksandr3122\PacMan\x64\Debug\PacMan.exe
